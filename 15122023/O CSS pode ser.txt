@@ -1,0 +1,5 @@
+O CSS pode ser:
+
+inline - direto no corpo do html(<body style="background-color: blue">)
+internal - dentro do head (<style>body{background-color: rgb(252, 249, 214);"}</style>)
+external - Arquivo externo 

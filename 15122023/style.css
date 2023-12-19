@@ -1,0 +1,12 @@
+p,
+body{
+    background-color: aquamarine;
+}
+label{
+    font:
+    irem 'Fira Sans',
+    sans-serif;
+}
+input{
+    margin: 0.4rem;
+}
