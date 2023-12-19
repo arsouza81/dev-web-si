@@ -1,10 +1,10 @@
 p,
 body{
-    background-color: aquamarine;
+    background-color: rgb(231, 235, 200);
 }
 label{
     font:
-    irem 'Fira Sans',
+    1rem 'Fira Sans',
     sans-serif;
 }
 input{
